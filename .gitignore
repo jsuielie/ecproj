@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### amazon dataset ###
+src/main/resources/static
